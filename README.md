@@ -1,4 +1,4 @@
-# Hi Im Giuseppe Pereira, You may call me Beppe! 👋
+# Hi I'm Giuseppe Pereira, You may call me Beppe! 👋
 
 - 🔭 I’m currently working on ![Giuseppe Matheus Blog](https://giuseppematheus.com) and ![Giuseppe Github Pages](https://giuseppemp.github.io)
 - 🌱 I’m currently learning Golang.
@@ -7,9 +7,9 @@
 - 💬 Ask me about Domain Driven Design, eXtreme Programming and Agile Coding Practices.
 - 📫 How to reach me: giuseppemath@gmail.com or chat with me at ![Giuseppe Matheus Blog](https://giuseppematheus.com)
 - 😄 Pronouns: he/him/his
-- ⚡ Geek fact: I built my own Keyboard part by part, and VIM is the best IDE ever. ⌨️ ⌨️ ⌨️
+- ⚡ Geek fact: I built my own Keyboard part by part, and I prefer VIM rather than any Big Tech Company's IDE. ⌨️
 - ⚡ Fun fact: I have Bovinophobia. 🐄🐄🐄
-- ⚡ Personal fact: I'm a Mauy Thai Fighter and love calisthenics exercises. 🥷🏼
+- ⚡ Personal fact: I'm a Mauy Thai Fighter and lover of calisthenics exercises. 🥷🏼
 - ⚡ Instagram: ![@GiuseppeMP](https://www.instagram.com/giuseppematheus/)
 - and I'm a TWER! 💛💛💛
   
