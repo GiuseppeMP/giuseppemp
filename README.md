@@ -1,16 +1,16 @@
 # Hi I'm Giuseppe Pereira, You may call me Beppe! 👋
 
-- 🔭 I’m currently working on ![Giuseppe Matheus Blog](https://giuseppematheus.com) and ![Giuseppe Github Pages](https://giuseppemp.github.io)
+- 🔭 I’m currently working on [Giuseppe Matheus Project](https://giuseppematheus.com) and [My Github Pages](https://giuseppemp.github.io)
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on GPG/PGP repositories.
 - 🤔 I’m looking for help with a propose of Dynamic Serverless Architecture as an alternative for Microservices Approach.
 - 💬 Ask me about Domain Driven Design, eXtreme Programming and Agile Coding Practices.
-- 📫 How to reach me: giuseppemath@gmail.com or chat with me at ![Giuseppe Matheus Blog](https://giuseppematheus.com)
+- 📫 How to reach me: giuseppemath@gmail.com or chat with me at [Giuseppe Matheus Project](https://giuseppematheus.com)
 - 😄 Pronouns: he/him/his
 - ⚡ Geek fact: I built my own Keyboard part by part, and I prefer VIM rather than any Big Tech Company's IDE. ⌨️
 - ⚡ Fun fact: I have Bovinophobia. 🐄🐄🐄
 - ⚡ Personal fact: I'm a Mauy Thai Fighter and lover of calisthenics exercises. 🥷🏼
-- ⚡ Instagram: ![@GiuseppeMP](https://www.instagram.com/giuseppematheus/)
+- ⚡ Instagram: [@GiuseppeMP](https://www.instagram.com/giuseppematheus/)
 - and I'm a TWER! 💛💛💛
   
 ---
