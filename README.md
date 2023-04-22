@@ -1,6 +1,8 @@
-# Hi I'm Giuseppe Pereira, You may call me Beppe! 👋
+# Hi I'm Giuseppe Pereira, Peppe! 👋
 
-[Just do it!](https://www.youtube.com/watch?v=5-sfG8BV8wU)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiuseppeMP&theme=dracula&card_width=720&currStreakNum=EBEBEB&fire=EBE70F)](https://git.io/streak-stats)
+
+## I'm ...
 
 - 🔭 I’m currently working on [Giuseppe Matheus Project](https://giuseppematheus.com) and [My Github Pages](https://giuseppemp.github.io)
 - 🌱 I’m currently learning Golang.
@@ -10,17 +12,4 @@
 - 📫 How to reach me: giuseppemath@gmail.com or chat with me at [Giuseppe Matheus Project](https://giuseppematheus.com)
 - 😄 Pronouns: he/him/his
 - ⚡ Instagram: [@GiuseppeMP](https://www.instagram.com/giuseppematheus/)
-  
----
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giuseppemp&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-
----
-<a href="https://github.com/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppemp&theme=onedark&layout=compact" />
-</a>
-
----
-<a href="https://github.com/giuseppemp">
-  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api?username=giuseppemp&show_icons=true&theme=onedark&layout=compact" />
-</a>
+- 🎯[Yesterday you said tomorrow!](https://www.youtube.com/watch?v=5-sfG8BV8wU)
