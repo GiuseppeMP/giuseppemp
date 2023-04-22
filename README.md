@@ -1,7 +1,9 @@
 # Hi I'm Giuseppe Pereira, Peppe! 👋
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiuseppeMP&theme=dracula&card_width=920&currStreakNum=EBEBEB&fire=EBE70F)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiuseppeMP&theme=dracula&card_width=720&currStreakNum=EBEBEB&fire=EBE70F)](https://git.io/streak-stats)
-
+</div>
 ## I'm ...
 
 - 🔭 I’m currently working on [Giuseppe Matheus Project](https://giuseppematheus.com) and [My Github Pages](https://giuseppemp.github.io)
@@ -13,3 +15,4 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Instagram: [@GiuseppeMP](https://www.instagram.com/giuseppematheus/)
 - 🎯[Yesterday you said tomorrow!](https://www.youtube.com/watch?v=5-sfG8BV8wU)
+
