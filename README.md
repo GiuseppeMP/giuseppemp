@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiuseppeMP&theme=dracula&card_width=720&currStreakNum=EBEBEB&fire=EBE70F?)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiuseppeMP&theme=dracula&card_width=920&currStreakNum=EBEBEB&fire=EBE70F?)](https://git.io/streak-stats)
 
 </div>
 
