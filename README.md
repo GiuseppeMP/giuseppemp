@@ -1,4 +1,4 @@
-# Hi I'm Giuseppe Pereira, you can call me Peppe! 👋
+# Hi I'm Giuseppe Pereira, you can call me Beppe! 👋
 
 <div align="center">
   
