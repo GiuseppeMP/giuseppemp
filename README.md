@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on [Giuseppe Matheus Project](https://giuseppematheus.com) and [My Github Pages](https://giuseppemp.github.io)
 - 🌱 I’m currently learning Golang.
-- 👯 I’m looking to collaborate on GPG/PGP repositories.
 - 🤔 I’m looking for help with a propose of Dynamic Serverless Architecture as an alternative for Microservices Approach.
 - 💬 Ask me about Domain Driven Design, Team topologies, eXtreme Programming and Agile Coding Practices.
 - 📫 How to reach me: giuseppemath@gmail.com or chat with me at [Giuseppe Matheus Project](https://giuseppematheus.com)
