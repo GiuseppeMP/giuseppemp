@@ -2,8 +2,8 @@
 
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiuseppeMP&theme=dracula&card_width=920&currStreakNum=EBEBEB&fire=EBE70F?)](https://git.io/streak-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiuseppeMP&theme=tokyonight&hide_border=true&fire=EB4D0F&hide_longest_streak=true)](https://git.io/streak-stats)
 </div>
 
 ## I'm ...
