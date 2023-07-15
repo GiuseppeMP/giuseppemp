@@ -1,10 +1,7 @@
 # Hi I'm Giuseppe Pereira, you can call me Beppe! 👋
 
 <div align="center">
-  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiuseppeMP&theme=tokyonight&hide_border=true&card_width=920&fire=EB4D0F&hide_longest_streak=true)](https://git.io/streak-stats)
-
-
 </div>
 
 ## I'm ...
