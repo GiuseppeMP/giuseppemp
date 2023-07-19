@@ -6,6 +6,12 @@
   
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,js,ts,vim" />
+  </a>
+</p>
+
 ## I'm ...
 
 - 🔭 I’m currently working on [Giuseppe Matheus Project](https://giuseppematheus.com) and [My Github Pages](https://giuseppemp.github.io)
