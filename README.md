@@ -10,7 +10,7 @@
 ## 👌 My current working daily stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,supabase,js,ts,lua,py,spring,java,nodejs,nginx,go,aws,git,linux" />
+    <img src="https://skillicons.dev/icons?i=vim,supabase,js,ts,lua,py,spring,java,nodejs,nginx,go,aws,git,linux,docker,kubernetes" />
   </a>
 </p>
 
