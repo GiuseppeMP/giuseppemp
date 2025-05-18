@@ -1,4 +1,4 @@
-# Hi I'm Beppe! 👋
+# 👋 Hi I'm Beppe! Expert on 🏦 Banking and Crypo systems and now exploring the wild world of ⚡⚡ ETRM.
 
 
 <div align="center">
@@ -10,7 +10,7 @@
 ## 👌 My current working daily stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,supabase,js,ts,lua,py,spring,java,nodejs,nginx,go,aws,gcp,azure,git,linux,docker,kubernetes&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vim,java,go,js,ts,lua,py,spring,nodejs,nginx,aws,gcp,azure,git,linux,docker,kubernetes&perline=5" />
   </a>
 </p>
 
