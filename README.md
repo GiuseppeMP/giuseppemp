@@ -1,6 +1,11 @@
 # 👋 Hi I'm Beppe! 
 
-🏦  Expert in banking and cryptocurrency systems 
+I consider myself an veteran Agilist and trainer, as my priority is getting code into production and helping people with their problems and ideas.
+
+>I do not simply deliver code for bad managers to check off tasks on a board
+
+
+🏦  Expert in backend services, banking and cryptocurrency systems 
 
 ⚡  Now exploring the wild world of ETRM
 
@@ -12,7 +17,15 @@
   </a>
 </p>
 
+---
 
+🧳 My Logs
+
+- 20+ Systems and Products in Production during my 15+ year career.
+- 300+ Developers trained in on-site workshops
+- 500+ Developers trained remotely post-pandemic
+- Numerous deployments, war rooms, hotfixes, dojos, postmortems, tests, POCs, spikes etc...
+---
 <div align="left">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiuseppeMP&theme=tokyonight&hide_border=true&card_width=920&fire=EB4D0F&hide_longest_streak=true)](https://git.io/streak-stats)
