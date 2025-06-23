@@ -28,6 +28,6 @@ I consider myself an veteran Agilist and trainer, as my priority is getting code
 ---
 <div align="left">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiuseppeMP&theme=tokyonight&hide_border=true&card_width=920&fire=EB4D0F&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=GiuseppeMP&theme=tokyonight&hide_border=false&card_width=920&fire=EB4D0F&hide_longest_streak=false)](https://git.io/streak-stats)
 
 </div>
