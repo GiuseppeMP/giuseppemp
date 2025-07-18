@@ -1,11 +1,9 @@
-# 👋 Hi I'm Beppe! 
-
-
+# 👋 Hi there, I'm Beppe! 
 
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/4944009?v=4" width="300"/>
+  <img src="https://static.wixstatic.com/media/44c167_fba7e93638184f778f5006aedca66d9a~mv2.png/v1/fill/w_502,h_216,al_c,lg_1,q_85,enc_avif,quality_auto/logo-site.png" width="300"/>
 </div>
-
+</br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/giuseppematheus">
