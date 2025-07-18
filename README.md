@@ -43,7 +43,7 @@ I consider myself an veteran Agilist and trainer, as my priority is getting code
 ---
 
 
-<div align="left">
+<div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=GiuseppeMP&theme=tokyonight&hide_border=false&card_width=720&fire=EB4D0F&hide_longest_streak=false)](https://git.io/streak-stats)
 
