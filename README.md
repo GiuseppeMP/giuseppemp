@@ -13,7 +13,7 @@ I consider myself an veteran Agilist and trainer, as my priority is getting code
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,java,go,js,ts,lua,py,spring,postgres,nodejs,nginx,aws,gcp,azure,git,linux,docker,kubernetes&perline=9" />
+    <img src="https://skillicons.dev/icons?i=vim,java,go,js,ts,lua,py,spring,postgres,nodejs,nginx,aws,gcp,azure,git,linux,docker,kubernetes&perline=5" />
   </a>
 </p>
 
