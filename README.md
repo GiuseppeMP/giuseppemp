@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Beppe! 
+## 👋 Hi there, I'm Beppe! 
 
 <div id="header" align="center">
   <img src="https://static.wixstatic.com/media/44c167_fba7e93638184f778f5006aedca66d9a~mv2.png/v1/fill/w_502,h_216,al_c,lg_1,q_85,enc_avif,quality_auto/logo-site.png" width="300"/>
@@ -15,6 +15,8 @@
 </div>
 </br>
 
+---
+
 I consider myself an veteran Agilist and trainer, as my priority is getting code into production and helping people with their problems and ideas.
 
 >I do not simply deliver code for bad managers to check off tasks on a board
@@ -24,24 +26,27 @@ I consider myself an veteran Agilist and trainer, as my priority is getting code
 
 ⚡  Now exploring the wild world of ETRM
 
-## 🧑‍💻 Daily Tech Stack
+---
+
+</br>
+</br>
+
+## Daily working with
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,java,go,js,ts,lua,py,spring,postgres,nodejs,nginx,aws,gcp,azure,git,linux,docker,kubernetes&perline=5" />
+    <img src="https://skillicons.dev/icons?i=vim,java,go,js,ts,lua,py,spring,postgres,nodejs,nginx,aws,gcp,azure,git,linux,docker,kubernetes&perline=9" />
   </a>
 </p>
 
----
-
-## 🧳 My Logs
+## TL;DR
 
 - 20+ Systems and Products in Production during my 15+ year career.
 - 300+ Developers trained in on-site workshops
 - 500+ Developers trained remotely post-pandemic
 - Numerous deployments, war rooms, hotfixes, dojos, postmortems, tests, POCs, spikes etc...
----
 
+## 
 
 <div align="center">
   
